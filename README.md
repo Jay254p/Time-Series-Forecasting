@@ -111,8 +111,7 @@ seaborn
 ```
 ├── app.py              # Streamlit web interface
 ├── requirements.txt    # Package dependencies
-├── time_series_model.h5# Trained model file
-└── README.md          # This file
+└── time_series_model.h5# Trained model file
 ```
 
 ## Input Data Format
