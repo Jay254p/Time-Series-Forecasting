@@ -140,12 +140,6 @@ Feel free to:
 - Report bugs
 
 
-This README provides:
-1. Clear project overview
-2. Installation instructions
-3. Usage guidelines
-4. Technical details
-5. File structure
-6. Input/Output formats
+
 
 
