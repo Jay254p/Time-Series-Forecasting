@@ -59,8 +59,8 @@ The model uses a hybrid CNN-LSTM architecture:
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/Jay254p/Time-Series-Forecasting
+cd https://github.com/Jay254p/Time-Series-Forecasting
 ```
 
 2. Install required packages:
